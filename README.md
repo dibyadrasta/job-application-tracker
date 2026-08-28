@@ -37,4 +37,4 @@ job-application-tracker/
 ├── ui.py
 ├── requirements.txt
 ├── .gitignore
-└── applications.db
+└── README.md
