@@ -2,6 +2,10 @@
 
 A desktop application for managing and tracking job applications using Python, Tkinter, and SQLite.
 
+## Screenshot
+
+![Job Application Tracker](screenshot.png)
+
 ## Features
 
 - Add job applications
